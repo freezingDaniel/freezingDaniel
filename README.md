@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A student in Germany from Luxemburg</h3>
 
+![](https://komarev.com/ghpvc/?username=freezingDaniel&color=blue&style=flat)
 
 <h3>📫 How to reach me</h3>
 <a href="https://www.twitch.tv/freezingDaniel" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" alt="Twitch" width="30" height="30"></a>
@@ -23,8 +24,6 @@
 
 
 <h3>🌱 My Stats</h3>
-
-![](https://komarev.com/ghpvc/?username=freezingDaniel&color=blue&style=flat)
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=freezingDaniel&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 [![Stats](https://github-readme-stats.vercel.app/api?username=freezingDaniel&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
