@@ -1,9 +1,9 @@
-<center>
+<p align="right">
+  <a href="https://github.com/antonkomarev/github-profile-views-counter" target="_blank"> <img src="https://komarev.com/ghpvc/?username=freezingDaniel&color=blue&style=flat" alt="Github Profile Views Counter" />
+</p>
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A student in Germany from Luxemburg</h3>
-<p align="center">
-  <a href="https://github.com/antonkomarev/github-profile-views-counter" target="_blank"> <img src="https://komarev.com/ghpvc/?username=freezingDaniel&color=blue&style=flat" alt="Github Profile Views Counter" />
-  </p>
+
 
 <h3 align="center">📫 How to reach me</h3>
 <p align="center">
