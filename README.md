@@ -8,11 +8,10 @@
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
              height="28" alt="LinkedIn Badge">
     </a>
-</p>
-<p align="center">
+<br>
     <a href="https://github.com/antonkomarev/github-profile-views-counter" target="_blank">
         <img src="https://komarev.com/ghpvc/?username=freezingDaniel&color=blue&style=flat"
-             height="28" alt="Github Profile Views Counter"/>
+             width="111" alt="Github Profile Views Counter"/>
     </a>
 </p>
 
@@ -105,6 +104,6 @@ I am an IT-student from Luxembourg
     </a>
     <br>
     <a href="https://www.linkedin.com/in/f-daniel" target="_blank">
-        <img src="https://img.shields.io/badge/-Daniel_F.-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" height="25">
+        <img src="https://img.shields.io/badge/-Daniel_F.-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" height="28">
     </a>
 </p>
