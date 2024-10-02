@@ -25,7 +25,7 @@
 
 <h3>🧑‍💻 About me:</h3>
 
-I am an IT-student from Luxembourg
+I am an IT-professional from Luxembourg
 
 - I'm mostly active in network and system administration
 - and have experience on the Ops side of things
