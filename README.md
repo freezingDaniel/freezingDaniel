@@ -25,12 +25,11 @@
 
 <h3>🧑‍💻 About me:</h3>
 
-I am an IT-professional from Luxembourg
-
-- I have most of my experience in
-    - DevOps
-    - Network administration
-    - System administration
+I am an IT-professional from Luxembourg!
+I have most of my experience in:
+- DevOps
+- Network administration
+- System administration
 
 ---
 
