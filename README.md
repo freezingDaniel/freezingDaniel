@@ -27,9 +27,10 @@
 
 I am an IT-professional from Luxembourg
 
-- I'm mostly active in network and system administration
-- and have experience on the Ops side of things
-- Additionally am highly interested in computer and information system management
+- I have most of my experience in
+    - DevOps
+    - Network administration
+    - System administration
 
 ---
 
